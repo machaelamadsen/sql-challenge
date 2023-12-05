@@ -1,1 +1,2 @@
-# sql-challenge
+In this challenge I acted as a data engineer at Pewlett Hackard (a fictional company). I looked through information on employees from 1980s and 1990s found in six CSV files.
+ I performed data modeling, data engineering, and data analysis. In this repository I have designed a DBD to connect the CSV's and assign relationships as well as primary keys. I then uploaded the data in PGAdmin and was able to sort through this data to answer the provided questions.
